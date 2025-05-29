@@ -2,7 +2,7 @@
 
 function uppg1(){
         
-        printf('Hello World!');
+        console.log('Hello World!');
     }
 
 
