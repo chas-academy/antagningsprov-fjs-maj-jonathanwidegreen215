@@ -1,11 +1,8 @@
-function sumNumbers(int a, int b)
+function sumNumbers(a, b)
 {
-int sum = a + b
+let sum = a + b
 return sum;
 }
-
-
-
 
 function uppg7() {
    
