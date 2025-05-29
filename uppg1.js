@@ -3,9 +3,7 @@
 function uppg1(){
 
     // Skriv ut texten "Hello World!" i konsolen
-    
-console.log('Hello World!');
-    
+console.log("Hello World!");
     }
 
 
