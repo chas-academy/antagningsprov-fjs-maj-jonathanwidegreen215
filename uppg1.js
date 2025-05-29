@@ -1,7 +1,7 @@
 
 
 function uppg1(){
-        alert('Hello World!');
+        console.log('Hello World!');
     }
 
 
