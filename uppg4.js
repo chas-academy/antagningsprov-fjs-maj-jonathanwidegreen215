@@ -5,15 +5,9 @@ function uppg4() {
     // objektet ska ha två properties, name och age
     // tilldela age 25
     // skriv ut med dotnotation åldern i konsolen
-  int age;
-  string name;
-object person = {name, age};
-  name = "person";
-  age = 25;
-
-  console.log(age);
-  
-
+const obj = {name:"person", age:null};
+  obj.age = 25;
+  console.log('Åldern: ' + obj.age);
 }
 
 module.exports = { uppg4 };
